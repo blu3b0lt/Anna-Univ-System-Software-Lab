@@ -1,0 +1,21 @@
+		Tokenisation
+
+Operators: 
+
++ % =  
+
+Punctuators:
+
+; , ( ) { } : 
+
+Keywords:
+
+const int float define include   
+
+Identifiers: 
+
+pi 3.141
+ a b c 0 
+ r 89 
+ bb 78.9090 
+ 

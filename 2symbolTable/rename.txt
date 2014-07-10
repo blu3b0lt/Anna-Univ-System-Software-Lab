@@ -1,0 +1,16 @@
+4000
+ start sum 4000
+
+4000 First ldx zero
+
+4003 zero byte c'ABCD'
+
+4007 bit byte x'0A0A'
+
+4009 zero byte 787
+
+400C second resw 700
+
+4840 lda mean
+
+4840 end sum
