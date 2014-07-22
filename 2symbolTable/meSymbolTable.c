@@ -38,12 +38,6 @@ struct hashTable {
 
 typedef struct hashTable hashTable;
 
-int toHex(char*);
-int toNum(char[]);
-char *strrev(char *);
-int toHex(char[], int);
-
-int toHex()
 int toDec(char *hexNum) {
 	int hexToDec = 0;
 	int place = 1;
